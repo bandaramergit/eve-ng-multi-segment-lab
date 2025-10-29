@@ -622,4 +622,5 @@ sudo dhclient -v eth0
 - تطبيق تقنيات QoS (Quality of Service)
 - إضافة بروتوكولات توجيه إضافية (BGP, EIGRP)
 
+تم إعداد هذا الدليل بواسطة: بندر عامر
 
