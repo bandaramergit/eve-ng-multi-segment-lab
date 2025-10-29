@@ -27,7 +27,7 @@ This project demonstrates a complete enterprise-style network design built in **
 
 ## 📂 Documentation
 Full lab configuration files and diagrams are included for reference.  
-For detailed topology visuals and step-by-step setup, visit the **Projects** section on [LinkedIn](#).
+For detailed topology visuals and step-by-step setup, visit the **Projects** section on [LinkedIn](https://www.linkedin.com/in/bandar-amer/).
 
 ---
 
