@@ -20,7 +20,7 @@
 
 ## الرسم التوضيحي للشبكة (Network Topology)
 
-![EVE-NG Lab Topology](<img src="/file:///C:/Users/User/Downloads/EVE-NG_Multi-Segment_Network_Lab.png" id="mypicture">)
+![EVE-NG Lab Topology] -- الرسم التوضيحي على حسابي في لينكدان, سيتم إضافة الرسم التوضيحي هنا قريبًا.
 يوضح الرسم أعلاه البنية الكاملة للشبكة مع جميع الأجهزة والاتصالات وعناوين IP.
 
 ---
