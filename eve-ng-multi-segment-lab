@@ -1,0 +1,11 @@
+# init repo (if not already)
+git init
+git add .
+git commit -m "Initial commit: lab files and docs"
+
+# add remote (replace <user> with your GitHub username)
+git remote add origin https://github.com/<user>/eve-ng-multi-segment-lab.git
+
+# push to GitHub
+git branch -M main
+git push -u origin main
