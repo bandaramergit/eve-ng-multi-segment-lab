@@ -20,7 +20,7 @@ This project aims to achieve the following learning objectives:
 
 ## Network Topology Diagram
 
-![EVE-NG Lab Topology](EVE-NG_Multi-Segment_Network_Lab.png)
+![EVE-NG Lab Topology] -- Illustration on my LinkedIn account. The illustration will be added here soon.
 
 The diagram above shows the complete network structure with all devices, connections, and IP addresses.
 
